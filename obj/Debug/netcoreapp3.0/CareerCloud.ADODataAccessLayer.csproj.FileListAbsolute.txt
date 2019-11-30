@@ -1,0 +1,6 @@
+C:\Users\drabi\source\repos\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Debug\netcoreapp3.0\CareerCloud.DataAccessLayer.dll
+C:\Users\drabi\source\repos\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Debug\netcoreapp3.0\CareerCloud.Pocos.dll
+C:\Users\drabi\source\repos\CareerCloud\CareerCloud.ADODataAccessLayer\bin\Debug\netcoreapp3.0\CareerCloud.Pocos.pdb
+C:\Users\drabi\source\repos\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\netcoreapp3.0\CareerCloud.ADODataAccessLayer.csprojAssemblyReference.cache
+C:\Users\drabi\source\repos\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\netcoreapp3.0\CareerCloud.ADODataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\drabi\source\repos\CareerCloud\CareerCloud.ADODataAccessLayer\obj\Debug\netcoreapp3.0\CareerCloud.ADODataAccessLayer.AssemblyInfo.cs
