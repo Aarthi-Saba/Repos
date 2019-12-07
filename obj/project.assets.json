@@ -227,11 +227,6 @@
       "CareerCloud.DataAccessLayer/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.0",
-        "dependencies": {
-          "Microsoft.Extensions.Configuration": "3.0.1",
-          "Microsoft.Extensions.Configuration.Json": "3.0.1",
-          "System.Data.SqlClient": "4.7.0"
-        },
         "compile": {
           "bin/placeholder/CareerCloud.DataAccessLayer.dll": {}
         },
